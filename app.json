@@ -1,0 +1,7 @@
+{
+    "name": "sweaters app",
+    "description": "barebones node.js app",
+    "repository": "https://github.com/uacs337spring2019/final-project-nickd",
+    "keywords": ["node", "express", "static"],
+    "image": "heroku/nodejs"
+}
